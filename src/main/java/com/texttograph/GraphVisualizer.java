@@ -168,7 +168,7 @@ public class GraphVisualizer {
         exporter.setGraphAttributeProvider(() -> {
             Map<String, Attribute> attrs = new HashMap<>();
             attrs.put("label", DefaultAttribute.createAttribute(
-                    "Total Weight: " + totalWeight + "\n" +
+                    "Total_Weight: " + totalWeight + "\n" +
                             "Path: " + formatPath(pathNodes)
             ));
             attrs.put("labelloc", DefaultAttribute.createAttribute("t"));  // 标题在顶部
