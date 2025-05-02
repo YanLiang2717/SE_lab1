@@ -29,6 +29,7 @@ public class Edge {
 
     @Override
     public String toString() {
+        System.out.println("a change");
         return source + " -> " + target + " [weight=" + weight + "]";
     }
 }
