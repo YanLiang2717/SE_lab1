@@ -1,0 +1,54 @@
+=== 随机游走结果 ===
+终止原因: 无出边终止
+路径序列: 
+1. analyzed → 2. it → 3. again
+
+=== 随机游走结果 ===
+终止原因: 无出边终止
+路径序列: 
+1. with → 2. the → 3. scientist → 4. analyzed → 5. it → 
+6. again
+
+=== 随机游走结果 ===
+终止原因: 发现重复边
+路径序列: 
+1. report → 2. with → 3. the → 4. team → 5. but → 
+6. the → 7. data → 8. wrote → 9. a → 10. detailed → 
+11. report → 12. with
+
+=== 随机游走结果 ===
+终止原因: 无出边终止
+路径序列: 
+1. detailed → 2. report → 3. with → 4. the → 5. scientist → 
+6. carefully → 7. analyzed → 8. it → 9. again
+
+=== 随机游走结果 ===
+终止原因: 无出边终止
+路径总权重: 3
+路径序列: 
+1. carefully → 2. analyzed → 3. it → 4. again
+
+=== 随机游走结果 ===
+终止原因: 无出边终止
+路径总权重: 10
+路径序列: 
+1. but → 2. the → 3. report → 4. with → 5. the → 
+6. scientist → 7. carefully → 8. analyzed → 9. it → 10. again
+
+
+=== 随机游走结果 ===
+终止原因: 发现重复边: more→data
+路径总权重: 12
+路径序列: 
+1. more → 2. data → 3. wrote → 4. a → 5. detailed → 
+6. report → 7. and → 8. shared → 9. the → 10. team → 
+11. requested → 12. more → 13. data
+
+=== 随机游走结果 ===
+终止原因: 发现重复边: report→with
+路径总权重: 9
+路径序列: 
+1. shared → 2. the → 3. report → 4. with → 5. the → 
+6. data → 7. wrote → 8. a → 9. detailed → 10. report → 
+11. with
+
