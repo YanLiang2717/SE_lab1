@@ -5,6 +5,7 @@ public class Edge {
     private Node target;
     private int weight;
 
+
     public Edge(Node source, Node target, int weight) {
         System.out.println("this is anther change");
         this.source = source;
