@@ -4,6 +4,7 @@ public class Node {
     private String word;
 
     public Node(String word) {
+
         this.word = word.toLowerCase(); // 不区分大小写
     }
 
