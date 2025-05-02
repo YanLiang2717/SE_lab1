@@ -9,6 +9,7 @@ public class Main {
             public void run() {
                 TextToGraphUI ui = new TextToGraphUI();
                 ui.setVisible(true);
+                System.out.println("this is a change");
             }
         });
     }
