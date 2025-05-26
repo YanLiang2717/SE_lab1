@@ -52,3 +52,9 @@
 6. data → 7. wrote → 8. a → 9. detailed → 10. report → 
 11. with
 
+=== 随机游走结果 ===
+终止原因: 无出边终止
+路径总权重: 2
+路径序列: 
+1. analyzed → 2. it → 3. again
+

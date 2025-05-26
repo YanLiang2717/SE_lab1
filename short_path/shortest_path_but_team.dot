@@ -1,8 +1,8 @@
 strict digraph G {
-  labeljust=r;
+  labeljust=l;
   labelloc=t;
   fontsize=16;
-  label=Total Weight: 3
+  label=Total_Weight: 3
 Path: but → the → team;
   but [ penwidth="3" fillcolor="#FFF3E0" color="red" style="filled" ];
   a [ ];
