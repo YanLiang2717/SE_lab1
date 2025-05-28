@@ -262,7 +262,7 @@ public class TextToGraphUI extends JFrame {
         String input = JOptionPane.showInputDialog(this,
                 "输入一个或两个单词（用空格分隔）:");
 
-        if (input == null) return;
+        //if (input == null) return;
         String[] words = input.trim().split("\\s+");
 
         // 处理不同输入情况
